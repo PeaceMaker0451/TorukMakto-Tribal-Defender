@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: be49ff4c1cfe961448269ec98d694850
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CC WildWords Lower
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3aba5da4f0771a34d850a6e30ecc95c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

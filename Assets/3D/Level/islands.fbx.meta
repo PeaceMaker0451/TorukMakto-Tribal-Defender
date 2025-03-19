@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 7a44fce10d6891642839af40541d9ba2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 4516037380486432888
+    second: Landscape2Low|Landscape2LowAction
+  - first:
+      74: -478428695913287537
+    second: Landscape2Low|LandscapeAction.001
+  - first:
+      74: -2010288825233267140
+    second: Landscape2Low|Walking
+  - first:
+      74: -2790514909872175279
+    second: "Landscape2Low|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action"
+  - first:
+      74: 6006936452505064867
+    second: "Landscape2Low|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action.001"
+  - first:
+      74: 5975380741755599939
+    second: "Landscape2Low|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action"
+  - first:
+      74: -6993834956844197992
+    second: "Landscape2Low|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action.001"
+  - first:
+      74: 1542515280632205810
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|Landscape2LowAction"
+  - first:
+      74: 8004963139468957598
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|LandscapeAction.001"
+  - first:
+      74: 5433791887182760418
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|Walking"
+  - first:
+      74: 6651538943122103559
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action"
+  - first:
+      74: 1745454223033731114
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action.001"
+  - first:
+      74: -5742690585981349450
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439
+      \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action"
+  - first:
+      74: -3857215419510153593
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439
+      \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action.001"
+  - first:
+      74: 5243494878618965726
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|Landscape2LowAction"
+  - first:
+      74: -1477596474674078076
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|LandscapeAction.001"
+  - first:
+      74: -7835735805665805973
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|Walking"
+  - first:
+      74: -1791251181554497291
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action"
+  - first:
+      74: -7899791603457356422
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action.001"
+  - first:
+      74: -7633805180816478404
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439
+      \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action"
+  - first:
+      74: 8968598682614488549
+    second: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.002|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439
+      \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action.001"
+  - first:
+      74: 8837685110005441720
+    second: Landscape2Low.001|Landscape2LowAction
+  - first:
+      74: -2884495377892335729
+    second: Landscape2Low.001|LandscapeAction.001
+  - first:
+      74: 1087337059957962691
+    second: Landscape2Low.001|Walking
+  - first:
+      74: -6375947150693402764
+    second: "Landscape2Low.001|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action"
+  - first:
+      74: -2660493415589219750
+    second: "Landscape2Low.001|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action.001"
+  - first:
+      74: -4953763426713234498
+    second: "Landscape2Low.001|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action"
+  - first:
+      74: 2175413441751573087
+    second: "Landscape2Low.001|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action.001"
+  - first:
+      74: -7422734880108666647
+    second: Landscape2Low.002|Landscape2LowAction
+  - first:
+      74: 2711212840922102804
+    second: Landscape2Low.002|LandscapeAction.001
+  - first:
+      74: -214542570458936577
+    second: Landscape2Low.002|Walking
+  - first:
+      74: 9019200662568247801
+    second: "Landscape2Low.002|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action"
+  - first:
+      74: 9024622719183529308
+    second: "Landscape2Low.002|\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C.001Action.001"
+  - first:
+      74: 1488885398637205472
+    second: "Landscape2Low.002|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action"
+  - first:
+      74: -325019028906447850
+    second: "Landscape2Low.002|\u0422\u043E\u0447\u0435\u0447\u043D\u044B\u0439 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A.001Action.001"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
